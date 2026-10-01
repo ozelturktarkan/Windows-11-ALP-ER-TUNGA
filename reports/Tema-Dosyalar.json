@@ -1,0 +1,20 @@
+{
+  "profile": "ALP_ER_TUNGA",
+  "wallpaper_mode": "Stretch / Genislet",
+  "source_assets": "WORKSPACE\\ALP-ER-TUNGA-URETIM\\Kaynaklar-r4\\Medya-Eki\\sources\\$OEM$\\$$",
+  "specialize_command": "cmd.exe /d /c powershell.exe -NoProfile -NonInteractive -ExecutionPolicy Bypass -File \"%WINDIR%\\Setup\\ALP_ER_TUNGA\\Apply-Theme-Defaults.ps1\"",
+  "scope": "Wallpaper, normal arrow cursor and first-logon theme initialization only; no services, networking, applications or security settings changed by theme scripts.",
+  "files": {
+    "autounattend.xml": "c1eef174776af758611aed9793b057003fb52150a89e232fd833c8efb3516a06",
+    "sources/$OEM$/$$/Cursors/ALP_ER_TUNGA/turk.ani": "34e5d1e321acc0d32ca481123c30cfbc32d1702a7c0eeb39069ffefbf69e0c27",
+    "sources/$OEM$/$$/Resources/Themes/ALP_ER_TUNGA.theme": "30a3e1115af15a1c42927afd621d18cc99b8c2f3dd661e94755b495ce0875400",
+    "sources/$OEM$/$$/Setup/ALP_ER_TUNGA/Apply-Theme-Defaults.ps1": "5b6a4efae2d514f18f7d7ab82488a784e229c5eb22654e7a11e703cc6a88581b",
+    "sources/$OEM$/$$/Setup/ALP_ER_TUNGA/Apply-UserTheme.ps1": "da768f919c65052f960cff3486299a4e9f7708fe71492849b7284fa5c9011931",
+    "sources/$OEM$/$$/Setup/ALP_ER_TUNGA/Theme.json": "87ea4c7671fd90be5ad9a8aae302bbe8190527ba7d127229013c83ccf004843f",
+    "sources/$OEM$/$$/Web/Wallpaper/ALP_ER_TUNGA/ALP_ER_TUNGA.jpg": "cb5805d794eeb4c0cec6d81e723133b2a19c0c7732b950c2c0588ec6ddde958b"
+  },
+  "references": [
+    "https://learn.microsoft.com/en-us/windows-hardware/customize/desktop/unattend/microsoft-windows-deployment-runsynchronous",
+    "https://learn.microsoft.com/en-us/windows-hardware/customize/desktop/wsim/manage-files-and-folders-in-a-distribution-share"
+  ]
+}

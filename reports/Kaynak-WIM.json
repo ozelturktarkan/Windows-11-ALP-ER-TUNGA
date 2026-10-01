@@ -1,0 +1,8 @@
+{
+  "source_wim_sha256": {
+    "install.wim": "4b2814d627945655bc5bf6050a2216af28f54e15f739bdde9a56fecee6117c33",
+    "boot.wim": "4ed5b4b23db74a2cbf3a9a1a59bfbccf339fd2683d0499820b34ea037ea1a31a"
+  },
+  "note": "Build input WIM hashes, not original whole-ISO hashes. No independent Microsoft source ISO hash verification is claimed here.",
+  "baseline": null
+}

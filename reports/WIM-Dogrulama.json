@@ -1,0 +1,48 @@
+{
+  "verified_at": "2026-10-01T09:46:56.863741+03:00",
+  "offline_checks_passed": true,
+  "required_files": {
+    "/Windows/explorer.exe": true,
+    "/Windows/System32/SearchIndexer.exe": true,
+    "/Windows/System32/mpssvc.dll": true,
+    "/Windows/System32/audiosrv.dll": true,
+    "/Windows/System32/AudioEndpointBuilder.dll": true,
+    "/Windows/System32/AppxDeploymentServer.dll": true,
+    "/Windows/System32/wuaueng.dll": true,
+    "/Windows/System32/WindowsPowerShell/v1.0/powershell.exe": true
+  },
+  "defender_engine_present": false,
+  "smartscreen_present": false,
+  "defender_service_start": null,
+  "store_packages_absent": {
+    "microsoft.windowsstore": true,
+    "microsoft.storepurchaseapp": true
+  },
+  "removed_appx": [
+    "Microsoft.StorePurchaseApp_12008.1001.113.0_neutral_~_8wekyb3d8bbwe",
+    "Microsoft.WindowsStore_22204.1400.4.0_neutral_~_8wekyb3d8bbwe"
+  ],
+  "unexpected_appx_removals": [],
+  "protected_service_starts_preserved": {
+    "mpssvc": true,
+    "bfe": true,
+    "audiosrv": true,
+    "audioendpointbuilder": true,
+    "wsearch": true,
+    "appxsvc": true,
+    "clipsvc": true,
+    "installservice": true,
+    "staterepository": true,
+    "wuauserv": true,
+    "bits": true,
+    "sysmain": true,
+    "textinputmanagementservice": true
+  },
+  "clean_setup_bypass_xml_valid": true,
+  "installation_test": "pending user",
+  "iso_created": false,
+  "theme_files_and_setup_hook_verified": true,
+  "virtualization_packages_checked": 242,
+  "virtualization_package_state_changes": {},
+  "publication_note": "Earlier offline image check; ISO build result is in ISO-Dogrulama.json."
+}

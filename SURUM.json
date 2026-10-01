@@ -1,0 +1,24 @@
+{
+  "name": "Windows 11 ALP ER TUNGA",
+  "revision": "r1",
+  "version": "23H2",
+  "edition": "Pro",
+  "build": "22631.2428",
+  "architecture": "x64",
+  "language": "tr-TR",
+  "status": "sources_published_iso_link_pending",
+  "iso_file": "Windows 11 ALP ER TUNGA.iso",
+  "iso_bytes": 6036621312,
+  "hashes": {
+    "sha256": "456919f87708e01c1d5a6840745d5b96e6cfc86dcd983a008d305e596f623895",
+    "sha1": "f430d307614ff5b6b09d438b74ef08d40b270f85",
+    "md5": "b16ed9e8d77ee890d43aa3332c7b967b"
+  },
+  "archive_url": null,
+  "iso_download_url": null,
+  "installation_test": "pending for this exact ISO",
+  "target_ram_gb": 4,
+  "ram_target_is_not_verified_minimum": true,
+  "build_verified_at": "2026-10-01T10:09:18.034191+03:00",
+  "iso_uploaded_to_github": false
+}

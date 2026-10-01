@@ -1,0 +1,90 @@
+{
+  "created_at": "2026-10-01T10:09:18.034191+03:00",
+  "packager": "pycdlib 1.21.0; official wheel SHA256 1a82cd735542921d0dd7bc40381e7b7b9cbc70bd4c03e4f67a0531d59d2f518e",
+  "iso": "WORKSPACE\\WIN11-ALP-ER-TUNGA-URETIM\\ADAY-r1\\Windows 11 ALP ER TUNGA.iso",
+  "iso_bytes": 6036621312,
+  "hashes": {
+    "sha256": "456919f87708e01c1d5a6840745d5b96e6cfc86dcd983a008d305e596f623895",
+    "sha1": "f430d307614ff5b6b09d438b74ef08d40b270f85",
+    "md5": "b16ed9e8d77ee890d43aa3332c7b967b"
+  },
+  "source": "WORKSPACE\\WIN11-ALP-ER-TUNGA-URETIM\\Medya",
+  "source_edition_count": 1,
+  "original_source_index": 4,
+  "exported_edition_count": 1,
+  "edition": "Windows 11 Pro",
+  "architecture": "x64",
+  "version": "23H2",
+  "build": "22631.2428",
+  "language": "tr-TR",
+  "wim_full_stream_verification_passed": true,
+  "wim_registry_matches_verified_image": {
+    "SOFTWARE": "9c160a4c9ecc4c2522f7d8d24bec0e4dce4f5a06e31af7683986a253ceb86152",
+    "SYSTEM": "5376a0e5e031bf6b15274dd86d85ae050d2e8ecee157f55631ba0603eb71ce01"
+  },
+  "embedded_file_hashes_verified": {
+    "sources/$OEM$/$$/Web/Wallpaper/ALP_ER_TUNGA/ALP_ER_TUNGA.jpg": "cb5805d794eeb4c0cec6d81e723133b2a19c0c7732b950c2c0588ec6ddde958b",
+    "sources/$OEM$/$$/Cursors/ALP_ER_TUNGA/turk.ani": "34e5d1e321acc0d32ca481123c30cfbc32d1702a7c0eeb39069ffefbf69e0c27",
+    "boot/etfsboot.com": "f425e135aac26b55e2bac655e62e2ce0b16255226c583d9ab43b2e93e8a6d932",
+    "sources/$OEM$/$$/Resources/Themes/ALP_ER_TUNGA.theme": "30a3e1115af15a1c42927afd621d18cc99b8c2f3dd661e94755b495ce0875400",
+    "bootmgr": "5aa5fb717d051696ead5b13568760068e1e263425532fea5e5b13977fb0f95fa",
+    "sources/$OEM$/$$/Setup/ALP_ER_TUNGA/Apply-UserTheme.ps1": "da768f919c65052f960cff3486299a4e9f7708fe71492849b7284fa5c9011931",
+    "efi/boot/bootx64.efi": "ac0513fa88d841d4698f5331c4012bc9747f36f7e5904c634315392d680d9794",
+    "sources/boot.wim": "4ed5b4b23db74a2cbf3a9a1a59bfbccf339fd2683d0499820b34ea037ea1a31a",
+    "sources/install.wim": "5436e1516ce93660a8ea7aabb04c5f6d5e94b0a93039aaa3a3143f58dd492311",
+    "sources/$OEM$/$$/Setup/ALP_ER_TUNGA/Theme.json": "87ea4c7671fd90be5ad9a8aae302bbe8190527ba7d127229013c83ccf004843f",
+    "setup.exe": "847998d3323af3250b496428abb8d50d9dd8d062ad1573d87294ce7d094c9d10",
+    "efi/microsoft/boot/efisys.bin": "cb340116707c6c74360be3d12b27bc76c250cb871440ecbae806677334970e15",
+    "sources/$OEM$/$$/Setup/ALP_ER_TUNGA/Apply-Theme-Defaults.ps1": "5b6a4efae2d514f18f7d7ab82488a784e229c5eb22654e7a11e703cc6a88581b",
+    "autounattend.xml": "c1eef174776af758611aed9793b057003fb52150a89e232fd833c8efb3516a06"
+  },
+  "file_inventory_verified": true,
+  "bios_and_uefi_boot_catalog_verified": true,
+  "efi_boot_requires_keypress": true,
+  "source_wim_not_modified": true,
+  "excluded_source_metadata": [
+    "autounattend.xml",
+    "NTLite.log",
+    "Otomatik Kaydedildi 53648bf9.xml"
+  ],
+  "clean_setup_checks_bypassed": [
+    "TPM",
+    "SecureBoot",
+    "RAM"
+  ],
+  "product_key_or_activation_added": false,
+  "automatic_partitioning_added": false,
+  "theme": {
+    "profile": "ALP_ER_TUNGA",
+    "wallpaper_mode": "Stretch / Genislet",
+    "source_assets": "WORKSPACE\\ALP-ER-TUNGA-URETIM\\Kaynaklar-r4\\Medya-Eki\\sources\\$OEM$\\$$",
+    "specialize_command": "cmd.exe /d /c powershell.exe -NoProfile -NonInteractive -ExecutionPolicy Bypass -File \"%WINDIR%\\Setup\\ALP_ER_TUNGA\\Apply-Theme-Defaults.ps1\"",
+    "scope": "Wallpaper, normal arrow cursor and first-logon theme initialization only; no services, networking, applications or security settings changed by theme scripts.",
+    "files": {
+      "autounattend.xml": "c1eef174776af758611aed9793b057003fb52150a89e232fd833c8efb3516a06",
+      "sources/$OEM$/$$/Cursors/ALP_ER_TUNGA/turk.ani": "34e5d1e321acc0d32ca481123c30cfbc32d1702a7c0eeb39069ffefbf69e0c27",
+      "sources/$OEM$/$$/Resources/Themes/ALP_ER_TUNGA.theme": "30a3e1115af15a1c42927afd621d18cc99b8c2f3dd661e94755b495ce0875400",
+      "sources/$OEM$/$$/Setup/ALP_ER_TUNGA/Apply-Theme-Defaults.ps1": "5b6a4efae2d514f18f7d7ab82488a784e229c5eb22654e7a11e703cc6a88581b",
+      "sources/$OEM$/$$/Setup/ALP_ER_TUNGA/Apply-UserTheme.ps1": "da768f919c65052f960cff3486299a4e9f7708fe71492849b7284fa5c9011931",
+      "sources/$OEM$/$$/Setup/ALP_ER_TUNGA/Theme.json": "87ea4c7671fd90be5ad9a8aae302bbe8190527ba7d127229013c83ccf004843f",
+      "sources/$OEM$/$$/Web/Wallpaper/ALP_ER_TUNGA/ALP_ER_TUNGA.jpg": "cb5805d794eeb4c0cec6d81e723133b2a19c0c7732b950c2c0588ec6ddde958b"
+    },
+    "references": [
+      "https://learn.microsoft.com/en-us/windows-hardware/customize/desktop/unattend/microsoft-windows-deployment-runsynchronous",
+      "https://learn.microsoft.com/en-us/windows-hardware/customize/desktop/wsim/manage-files-and-folders-in-a-distribution-share"
+    ]
+  },
+  "scope": "Single Pro 23H2 edition. Defender Antivirus, SmartScreen, Store and Store Purchase App removed; clean setup TPM/Secure Boot/RAM checks bypassed. Optional virtualization payload retained and disabled. Additional theme/service customization is not part of r1.; approved wallpaper in Stretch mode and previously tested Turkish flag cursor",
+  "removed_components": [
+    "defenderantivirus",
+    "microsoft.windowsstore",
+    "microsoft.storepurchaseapp",
+    "microsoft.windows.apprep.chxapp"
+  ],
+  "virtualization_feature_check": "WORKSPACE\\WIN11-ALP-ER-TUNGA-URETIM\\Hazirlik\\Optional-Features.json",
+  "previous_offline_verification": "WORKSPACE\\WIN11-ALP-ER-TUNGA-URETIM\\Kaynaklar-r1\\WIM-Dogrulama.json",
+  "boot_and_installation_test": "pending user; maximum 4096 MiB VM RAM",
+  "release_status": "r1 test candidate; not installation-tested",
+  "publication_note": "Original build-time verification; local host paths replaced by WORKSPACE/TOOLS. Publication did not rerun Windows installation or full ISO hashing.",
+  "original_scope_note": "Original report contains a stale pre-theme sentence; the embedded theme file hashes below are the evidence of the added theme."
+}

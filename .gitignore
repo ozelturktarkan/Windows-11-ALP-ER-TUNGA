@@ -1,0 +1,7 @@
+*.iso
+*.wim
+*.esd
+*.vdi
+*.vhd*
+*.partial
+*.log

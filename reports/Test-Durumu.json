@@ -1,0 +1,11 @@
+{
+  "verification_kind": "Build-time records; not a fresh installation test",
+  "wim_offline_passed": true,
+  "iso_inventory_verified": true,
+  "bios_uefi_catalog_verified": true,
+  "exact_iso_installation_test": "pending",
+  "user_observation": "Bu kesin ISO sürümü için kullanıcı kurulum testi henüz kayıtlı değildir.",
+  "windows_11_dock_test": "not applicable",
+  "physical_hardware_test": "not recorded",
+  "low_ram_target_validated": false
+}
